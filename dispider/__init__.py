@@ -1,1 +1,1 @@
-# from .model import LlavaLlamaForCausalLM
+"""Dispider video-language inference."""
